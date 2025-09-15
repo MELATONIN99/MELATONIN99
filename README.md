@@ -1,13 +1,12 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=6C698D&height=100&section=header"/>
-  
+<!--  
 `About Me`
 <div>
 <img src="https://github.com/user-attachments/assets/11ae2a6d-6b5e-4435-8e9d-d864131c5d78" alt="Notion Portfolio" width="32" height="32">
- 
-  [Notion Portfolio](https://midi-iridium-efa.notion.site/Portfolio-1384837169cd803c8f24ce88f451215d)
+ [Notion Portfolio](https://midi-iridium-efa.notion.site/Portfolio-1384837169cd803c8f24ce88f451215d)
 </div>
-
+-->
 
 `Skills`
 
